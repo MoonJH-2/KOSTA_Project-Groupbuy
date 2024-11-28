@@ -1,5 +1,9 @@
 # KOSTA_Project: 그루빙 🛍
 
+[[ 산업계주도(1회차) 수료증_문정현.pdf : 구글 드라이브 ]](https://drive.google.com/drive/folders/13vm3P3xbybTj6uU8Tntb0O9C2sP9ZKVd?usp=drive_link)
+
+[[ 최우수상_함계이조.pdf : 구글 드라이브 ]](https://drive.google.com/drive/folders/13vm3P3xbybTj6uU8Tntb0O9C2sP9ZKVd?usp=drive_link)
+
 ## 프로젝트 설명 
 1인 가구를 위한 공동 구매 웹 플랫폼 
  
